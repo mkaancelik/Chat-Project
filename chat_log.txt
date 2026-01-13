@@ -1,0 +1,218 @@
+[2025-11-06 12:13:51] Chat Server started on 0.0.0.0:8800
+[2025-11-06 12:13:51] WebSocket Server started on 0.0.0.0:8081
+[2025-11-06 12:13:55] HTTP Server started on 0.0.0.0:8080
+[2025-11-06 12:14:17] kaan joined (Total Clients: 1)
+[2025-11-06 12:14:29] emre joined (Total Clients: 2)
+[2025-11-06 12:14:49] [12:14:49] kaan: sa
+[2025-11-06 12:14:52] [12:14:52] emre: as
+[2025-11-06 12:17:18] kaan left (Total Clients: 1)
+[2025-11-06 12:17:19] emre left (Total Clients: 0)
+[2025-11-06 12:17:53] Server shut down
+[2025-11-06 12:18:07] Chat Server started on 0.0.0.0:8800
+[2025-11-06 12:18:07] WebSocket Server started on 0.0.0.0:8081
+[2025-11-06 12:18:11] HTTP Server started on 0.0.0.0:8080
+[2025-11-06 12:18:20] kaan joined (Total Clients: 1)
+[2025-11-06 12:18:27] emre joined (Total Clients: 2)
+[2025-11-06 12:18:51] [12:18:51] kaan: sa
+[2025-11-06 12:18:54] [12:18:54] emre: as
+[2025-11-06 12:19:25] PRIVATE [emre -> kaan]: gizi
+[2025-11-06 12:19:39] PRIVATE [kaan -> emre]: alala
+[2025-11-06 12:20:24] [12:20:24] emre: a
+[2025-11-06 12:20:24] [12:20:24] emre: a
+[2025-11-06 12:20:25] [12:20:25] emre: a
+[2025-11-06 12:20:25] [12:20:25] emre: a
+[2025-11-06 12:20:25] [12:20:25] emre: a
+[2025-11-06 12:20:26] [12:20:26] emre: a
+[2025-11-06 12:20:26] [12:20:26] emre: a
+[2025-11-06 12:20:26] [12:20:26] emre: a
+[2025-11-06 12:20:27] [12:20:27] emre: a
+[2025-11-06 12:20:27] [12:20:27] emre: a
+[2025-11-06 12:20:27] Rate limit triggered for emre
+[2025-11-06 12:20:27] Rate limit triggered for emre
+[2025-11-06 12:20:58] Rate limit triggered for emre
+[2025-11-06 12:21:01] emre left (Total Clients: 1)
+[2025-11-06 12:21:07] kaan left (Total Clients: 0)
+[2025-11-06 12:21:11] Server shut down
+[2025-11-06 12:24:45] Chat Server started on 0.0.0.0:8800
+[2025-11-06 12:24:45] WebSocket Server started on 0.0.0.0:8081
+[2025-11-06 12:24:50] HTTP Server started on 0.0.0.0:8080
+[2025-11-06 12:25:06] Server shut down
+[2025-11-06 13:08:19] Chat Server started on 0.0.0.0:8800
+[2025-11-06 13:08:19] WebSocket Server started on 0.0.0.0:8081
+[2025-11-06 13:08:24] HTTP Server started on 0.0.0.0:8080
+[2025-11-06 13:08:29] kaan joined (Total Clients: 1)
+[2025-11-06 13:08:40] emre joined (Total Clients: 2)
+[2025-11-06 13:08:47] [13:08:47] kaan: sa
+[2025-11-06 13:08:51] [13:08:51] emre: as
+[2025-11-06 13:09:12] PRIVATE [emre -> kaan]: gizli
+[2025-11-06 13:09:19] PRIVATE [emre -> kaan]: aaa
+[2025-11-06 13:09:24] PRIVATE [kaan -> emre]: aa
+[2025-11-06 13:09:38] kaan left (Total Clients: 1)
+[2025-11-06 13:09:39] emre left (Total Clients: 0)
+[2025-11-06 13:13:01] kaan joined (Total Clients: 1)
+[2025-11-06 13:13:11] emre joined (Total Clients: 2)
+[2025-11-06 13:13:21] [13:13:21] kaan: sa
+[2025-11-06 13:13:23] [13:13:23] emre: as
+[2025-11-06 13:13:29] PRIVATE [kaan -> emre]: sa
+[2025-11-06 13:13:33] PRIVATE [emre -> kaan]: as
+[2025-11-06 13:14:11] emre left (Total Clients: 1)
+[2025-11-06 13:14:12] kaan left (Total Clients: 0)
+[2025-11-06 13:14:16] Server shut down
+[2025-11-06 13:45:28] Chat Server started on 0.0.0.0:8800
+[2025-11-06 13:45:28] WebSocket Server started on 0.0.0.0:8081
+[2025-11-06 13:45:33] HTTP Server started on 0.0.0.0:8080
+[2025-11-06 13:45:49] emre joined (Total Clients: 1)
+[2025-11-06 13:46:01] [13:46:01] emre: sa
+[2025-11-06 13:46:02] emre left (Total Clients: 0)
+[2025-11-06 13:47:57] kaan joined (Total Clients: 1)
+[2025-11-06 13:48:08] kaan left (Total Clients: 0)
+[2025-11-06 13:48:25] Server shut down
+[2025-11-07 22:49:03] Chat Server started on 0.0.0.0:8800
+[2025-11-07 22:49:03] HTTP Server started on 0.0.0.0:8080
+[2025-11-07 22:49:03] WebSocket Server started on 0.0.0.0:8081
+[2025-11-07 22:51:32] kaan joined (Total Clients: 1)
+[2025-11-07 22:52:00] *emre joined (Total Clients: 2)
+[2025-11-07 22:53:56] [22:53:56] kaan: sa
+[2025-11-07 22:53:58] [22:53:58] *emre: as
+[2025-11-07 22:54:18] PRIVATE [*emre -> kaan]: selam alikum
+[2025-11-07 22:54:25] PRIVATE [kaan -> *emre]: as
+[2025-11-07 22:54:29] *emre left (Total Clients: 1)
+[2025-11-07 22:54:30] kaan left (Total Clients: 0)
+[2025-11-07 22:54:59] Server shut down
+[2025-11-18 11:32:12] Chat Server started on 0.0.0.0:8800
+[2025-11-18 11:32:12] HTTP Server started on 0.0.0.0:8080
+[2025-11-18 11:32:12] WebSocket Server started on 0.0.0.0:8081
+[2025-11-18 11:32:26] kaan joined (Total Clients: 1)
+[2025-11-18 11:32:38] kaan549 joined (Total Clients: 2)
+[2025-11-18 11:34:20] PRIVATE [kaan549 -> kaan]: sa
+[2025-11-18 11:34:24] PRIVATE [kaan -> kaan549]: as
+[2025-11-18 11:34:37] [11:34:37] kaan: sa
+[2025-11-18 11:34:41] [11:34:41] kaan549: as
+[2025-11-18 11:34:45] kaan549 left (Total Clients: 1)
+[2025-11-18 11:34:46] kaan left (Total Clients: 0)
+[2025-11-18 11:35:04] Server shut down
+[2025-11-19 14:54:41] Chat Server started on 0.0.0.0:8800
+[2025-11-19 14:54:42] HTTP Server started on 0.0.0.0:8080
+[2025-11-19 14:54:42] WebSocket Server started on 0.0.0.0:8081
+[2025-11-19 14:54:54] kaan joined (Total Clients: 1)
+[2025-11-19 14:55:06] kaan197 joined (Total Clients: 2)
+[2025-11-19 14:55:30] [14:55:30] kaan197: sa
+[2025-11-19 14:55:34] [14:55:34] kaan: as
+[2025-11-19 14:55:41] PRIVATE [kaan -> kaan197]: sa
+[2025-11-19 14:55:46] PRIVATE [kaan197 -> kaan]: as
+[2025-11-19 14:56:30] Server shut down
+[2025-11-19 15:00:03] Chat Server started on 0.0.0.0:8800
+[2025-11-19 15:00:03] HTTP Server started on 0.0.0.0:8080
+[2025-11-19 15:00:03] WebSocket Server started on 0.0.0.0:8081
+[2025-11-19 15:00:15] Server shut down
+[2025-11-20 15:30:58] Chat Server started on 0.0.0.0:8800
+[2025-11-20 15:30:58] HTTP Server started on 0.0.0.0:8080
+[2025-11-20 15:30:58] WebSocket Server started on 0.0.0.0:8081
+[2025-11-20 15:31:13] kaan joined (Total Clients: 1)
+[2025-11-20 15:31:25] kaan250 joined (Total Clients: 2)
+[2025-11-20 15:32:03] [15:32:03] kaan250: sa
+[2025-11-20 15:32:08] [15:32:08] kaan: as
+[2025-11-20 15:32:38] PRIVATE [kaan -> kaan250]: gizli
+[2025-11-20 15:32:44] PRIVATE [kaan250 -> kaan]: secret
+[2025-11-20 15:33:11] kaan250 left (Total Clients: 1)
+[2025-11-20 15:33:21] [15:33:21] kaan: kaan250
+[2025-11-20 15:33:26] [15:33:26] kaan: offline
+[2025-11-20 15:33:46] kaan250 joined (Total Clients: 2)
+[2025-11-20 15:34:29] [15:34:29] kaan: alo
+[2025-11-20 15:34:34] kaan left (Total Clients: 1)
+[2025-11-20 15:34:46] kaan250 left (Total Clients: 0)
+[2025-11-20 15:35:32] kaan joined (Total Clients: 1)
+[2025-11-20 15:35:38] emre joined (Total Clients: 2)
+[2025-11-20 15:35:53] PRIVATE [kaan -> emre]: gizli mesaj
+[2025-11-20 15:35:58] emre left (Total Clients: 1)
+[2025-11-20 15:36:28] OFFLINE MESSAGE [kaan -> emre]: offline deneme
+[2025-11-20 15:36:40] OFFLINE MESSAGE [kaan -> emre]: deneme offline
+[2025-11-20 15:37:04] Delivered 2 offline messages to emre
+[2025-11-20 15:37:04] emre joined (Total Clients: 2)
+[2025-11-20 15:37:23] emre left (Total Clients: 1)
+[2025-11-20 15:37:25] kaan left (Total Clients: 0)
+[2025-11-20 15:37:31] Server shut down
+[2025-11-20 22:47:18] Chat Server started on 0.0.0.0:8800
+[2025-11-20 22:47:18] WebSocket Server started on 0.0.0.0:8081
+[2025-11-20 22:47:33] HTTP Server started on 0.0.0.0:8080
+[2025-11-20 22:48:16] kaan joined (Total Clients: 1)
+[2025-11-20 22:48:36] kaan836 joined (Total Clients: 2)
+[2025-11-20 22:48:50] emre joined (Total Clients: 3)
+[2025-11-20 22:56:16] [22:56:16] emre: sa
+[2025-11-20 22:56:27] [22:56:27] kaan: as
+[2025-11-20 22:57:14] PRIVATE [emre -> kaan]: sa
+[2025-11-20 22:57:40] PRIVATE [kaan -> emre]: as
+[2025-11-20 22:59:16] emre left (Total Clients: 2)
+[2025-11-20 22:59:16] kaan836 left (Total Clients: 1)
+[2025-11-20 22:59:16] kaan left (Total Clients: 0)
+[2025-11-20 22:59:53] Server shut down
+[2025-11-20 23:53:17] Chat Server started on 0.0.0.0:8800
+[2025-11-20 23:53:18] WebSocket Server started on 0.0.0.0:8081
+[2025-11-20 23:53:22] HTTP Server started on 0.0.0.0:8080
+[2025-11-20 23:54:01] kaan joined (Total Clients: 1)
+[2025-11-20 23:54:30] kaan053 joined (Total Clients: 2)
+[2025-11-20 23:55:06] emre joined (Total Clients: 3)
+[2025-11-20 23:57:59] [23:57:59] kaan: Hello to everyone!!!!
+[2025-11-21 00:00:44] [00:00:44] kaan053: Hii!
+[2025-11-21 00:01:03] [00:01:03] emre: Whats upp!
+[2025-11-21 00:10:18] kaan053 left (Total Clients: 2)
+[2025-11-21 00:10:33] emre left (Total Clients: 1)
+[2025-11-21 00:10:34] kaan left (Total Clients: 0)
+[2025-11-21 00:11:09] Server shut down
+[2025-11-21 00:12:06] Chat Server started on 0.0.0.0:8800
+[2025-11-21 00:12:06] WebSocket Server started on 0.0.0.0:8081
+[2025-11-21 00:12:10] HTTP Server started on 0.0.0.0:8080
+[2025-11-21 00:16:15] kaan joined (Total Clients: 1)
+[2025-11-21 00:16:26] kaan366 joined (Total Clients: 2)
+[2025-11-21 00:16:38] emre joined (Total Clients: 3)
+[2025-11-21 00:17:37] [00:17:37] kaan: hello
+[2025-11-21 00:17:39] [00:17:39] kaan366: hi
+[2025-11-21 00:17:48] [00:17:48] emre: bonjour!
+[2025-11-21 00:21:09] PRIVATE [kaan -> emre]: is secret chat working?
+[2025-11-21 00:21:38] PRIVATE [emre -> kaan]: yes it is
+[2025-11-21 00:26:10] [00:26:10] kaan366: a
+[2025-11-21 00:26:10] [00:26:10] kaan366: a
+[2025-11-21 00:26:11] [00:26:11] kaan366: a
+[2025-11-21 00:26:11] [00:26:11] kaan366: a
+[2025-11-21 00:26:11] [00:26:11] kaan366: a
+[2025-11-21 00:26:11] [00:26:11] kaan366: a
+[2025-11-21 00:26:11] [00:26:11] kaan366: a
+[2025-11-21 00:26:12] [00:26:12] kaan366: a
+[2025-11-21 00:26:12] [00:26:12] kaan366: a
+[2025-11-21 00:26:12] [00:26:12] kaan366: a
+[2025-11-21 00:26:12] Rate limit triggered for kaan366
+[2025-11-21 00:26:13] Rate limit triggered for kaan366
+[2025-11-21 00:26:14] Rate limit triggered for kaan366
+[2025-11-21 00:26:15] Rate limit triggered for kaan366
+[2025-11-21 00:30:02] kaan366 left (Total Clients: 2)
+[2025-11-21 00:32:00] emre left (Total Clients: 1)
+[2025-11-21 00:32:46] emre joined (Total Clients: 2)
+[2025-11-21 00:33:08] kaan left (Total Clients: 1)
+[2025-11-21 00:33:29] OFFLINE MESSAGE [emre -> kaan]: save massage for offline user
+[2025-11-21 00:33:54] Delivered 1 offline messages to kaan
+[2025-11-21 00:33:54] kaan joined (Total Clients: 2)
+[2025-11-21 00:38:38] kaan left (Total Clients: 1)
+[2025-11-21 00:38:39] emre left (Total Clients: 0)
+[2025-11-21 00:40:08] Server shut down
+[2025-11-21 00:43:24] Chat Server started on 0.0.0.0:8800
+[2025-11-21 00:43:24] WebSocket Server started on 0.0.0.0:8081
+[2025-11-21 00:43:29] HTTP Server started on 0.0.0.0:8080
+[2025-11-21 00:44:24] *kaan joined (Total Clients: 1)
+[2025-11-21 00:47:13] kaan joined (Total Clients: 2)
+[2025-11-21 00:47:28] kaan left (Total Clients: 1)
+[2025-11-21 00:48:00] *kaan left (Total Clients: 0)
+[2025-11-21 00:48:03] Server shut down
+[2025-11-21 00:48:45] Chat Server started on 0.0.0.0:8800
+[2025-11-21 00:48:45] WebSocket Server started on 0.0.0.0:8081
+[2025-11-21 00:48:49] HTTP Server started on 0.0.0.0:8080
+[2025-11-21 00:49:29] *kaan joined (Total Clients: 1)
+[2025-11-21 00:49:53] emre joined (Total Clients: 2)
+[2025-11-21 00:52:12] [00:52:12] *kaan: hello from relay
+[2025-11-21 00:52:16] [00:52:16] emre: hi
+[2025-11-21 00:52:25] *kaan left (Total Clients: 1)
+[2025-11-21 00:52:26] emre left (Total Clients: 0)
+[2025-11-21 00:53:20] Server shut down
+[2025-11-21 01:01:22] Chat Server started on 0.0.0.0:8800
+[2025-11-21 01:01:22] WebSocket Server started on 0.0.0.0:8081
+[2025-11-21 01:01:27] HTTP Server started on 0.0.0.0:8080
+[2025-11-21 01:01:50] Connection rejected from ('127.0.0.1', 54796): Nickname cannot start with '*' (reserved for relay)

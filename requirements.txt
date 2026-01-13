@@ -1,0 +1,29 @@
+# Chat System - Project 02 Requirements
+# Python 3.7+ required
+
+# Core requirement
+websockets>=10.0
+
+# Optional for enhanced features
+# None required - all other dependencies are in standard library
+
+# Standard library modules used (no installation needed):
+# - socket
+# - select
+# - threading
+# - tkinter (may need system package on Linux)
+# - pickle
+# - struct
+# - datetime
+# - time
+# - json
+# - argparse
+# - sys
+# - signal
+# - http.server
+# - asyncio
+
+# Installation:
+# pip install -r requirements.txt
+
+

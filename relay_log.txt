@@ -1,0 +1,54 @@
+[2025-11-06 13:47:35] Relay started: Port 8900 -> localhost:8800
+[2025-11-06 13:48:19] Relay shut down
+[2025-11-07 22:50:30] Relay started: Port 8900 -> localhost:8800
+[2025-11-07 22:52:00] Client connected: ('127.0.0.1', 57168)
+[2025-11-07 22:52:00] Relay established: ('127.0.0.1', 57168) <-> localhost:8800
+[2025-11-07 22:52:00] Nickname rewrite: NAME: emre -> NAME: *emre
+[2025-11-07 22:52:00] Client->Server: NAME: *emre
+[2025-11-07 22:52:00] Server->Client: CLIENT: *emre
+[2025-11-07 22:52:00] Server->Client: USERLIST:kaan,*emre
+[2025-11-07 22:52:00] Server->Client: USERLIST:kaan,*emre
+[2025-11-07 22:53:56] Server->Client: [22:53:56] kaan: sa
+[2025-11-07 22:53:58] Client->Server: as
+[2025-11-07 22:54:18] Server->Client: [22:54:18] PRIVATE to kaan: selam alikum
+[2025-11-07 22:54:18] Client->Server: /pm kaan selam alikum
+[2025-11-07 22:54:25] Server->Client: [22:54:25] PRIVATE from kaan: as
+[2025-11-07 22:54:29] Connection closed: ('127.0.0.1', 57168) (Client->Server)
+[2025-11-07 22:54:29] Connection closed: ('127.0.0.1', 57168) (Server->Client)
+[2025-11-07 22:54:29] Relay cleaned up: ('127.0.0.1', 57168)
+[2025-11-07 22:54:29] Relay cleaned up: ('127.0.0.1', 57168)
+[2025-11-07 22:54:50] Relay shut down
+[2025-11-21 00:43:38] Relay started: port 8900 -> localhost:8800
+[2025-11-21 00:44:24] Client connected: ('127.0.0.1', 53520)
+[2025-11-21 00:44:24] Relay established: ('127.0.0.1', 53520) <-> localhost:8800
+[2025-11-21 00:44:24] Nickname rewrite: NAME: kaan -> NAME: *kaan
+[2025-11-21 00:44:24] Client->Server: NAME: *kaan
+[2025-11-21 00:44:24] Server->Client: CLIENT: *kaan
+[2025-11-21 00:44:24] Server->Client: USERLIST:*kaan
+[2025-11-21 00:44:24] Server->Client: USERLIST:*kaan
+[2025-11-21 00:47:13] Server->Client: kaan joined (Total Clients: 2)
+[2025-11-21 00:47:13] Server->Client: USERLIST:*kaan,kaan
+[2025-11-21 00:47:28] Server->Client: kaan left (Total Clients: 1)
+[2025-11-21 00:47:28] Server->Client: USERLIST:*kaan
+[2025-11-21 00:48:00] Connection closed: ('127.0.0.1', 53520) (Client->Server)
+[2025-11-21 00:48:00] Relay cleaned up: ('127.0.0.1', 53520)
+[2025-11-21 00:48:00] Connection closed: ('127.0.0.1', 53520) (Server->Client)
+[2025-11-21 00:48:00] Relay cleaned up: ('127.0.0.1', 53520)
+[2025-11-21 00:48:07] Relay shut down
+[2025-11-21 00:48:59] Relay started: port 8900 -> localhost:8800
+[2025-11-21 00:49:29] Client connected: ('127.0.0.1', 53657)
+[2025-11-21 00:49:29] Relay established: ('127.0.0.1', 53657) <-> localhost:8800
+[2025-11-21 00:49:29] Nickname rewrite: NAME: kaan -> NAME: *kaan
+[2025-11-21 00:49:29] Client->Server: NAME: *kaan
+[2025-11-21 00:49:29] Server->Client: CLIENT: *kaan
+[2025-11-21 00:49:29] Server->Client: USERLIST:*kaan
+[2025-11-21 00:49:29] Server->Client: USERLIST:*kaan
+[2025-11-21 00:49:53] Server->Client: emre joined (Total Clients: 2)
+[2025-11-21 00:49:53] Server->Client: USERLIST:*kaan,emre
+[2025-11-21 00:52:12] Client->Server: hello from relay
+[2025-11-21 00:52:16] Server->Client: [00:52:16] emre: hi
+[2025-11-21 00:52:25] Connection closed: ('127.0.0.1', 53657) (Client->Server)
+[2025-11-21 00:52:25] Relay cleaned up: ('127.0.0.1', 53657)
+[2025-11-21 00:52:25] Connection closed: ('127.0.0.1', 53657) (Server->Client)
+[2025-11-21 00:52:25] Relay cleaned up: ('127.0.0.1', 53657)
+[2025-11-21 00:53:11] Relay shut down
