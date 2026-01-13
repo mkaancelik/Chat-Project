@@ -1,6 +1,3 @@
-2021556018
-Mustafa Kaan Çelik
-Evening class
 
 # Chat Project - README
 
